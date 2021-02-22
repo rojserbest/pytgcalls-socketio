@@ -1,4 +1,5 @@
-socketio
+python-socketio
+aiohttp
 pyrogram
 TgCrypto
 python-dotenv

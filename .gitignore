@@ -2,3 +2,6 @@
 *.session
 *.session-journal
 *.raw
+.env
+__pycache__
+.vscode
