@@ -1,3 +1,4 @@
+socketio
 pyrogram
 TgCrypto
 python-dotenv
