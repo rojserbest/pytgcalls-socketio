@@ -31,7 +31,7 @@ async def set_input(sid, data):
     to_emit = {"good": None, "result": None}
 
     try:
-        await client.set_input(**data)
+        client.set_input(**data)
         to_emit["good"] = True
         to_emit["result"] = True
     except Exception as e:
